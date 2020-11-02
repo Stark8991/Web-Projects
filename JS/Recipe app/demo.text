@@ -1,0 +1,44 @@
+  <!-- <li>
+            <img
+              src="https://www.themealdb.com/images/media/meals/uttrxw1511637813.jpg"
+              alt=""
+              class="fav_items"
+            />
+            <span>Beef item</span>
+            <button class="close">
+              <i class="fa fa-times" aria-hidden="true"></i>
+            </button>
+          </li>
+          <li>
+            <img
+              src="https://www.themealdb.com/images/media/meals/rjhf741585564676.jpg"
+              alt=""
+              class="fav_items"
+            />
+            <span>chicken item</span>
+            <button class="close">
+              <i class="fa fa-times" aria-hidden="true"></i>
+            </button>
+          </li>
+          <li>
+            <img
+              src="https://www.themealdb.com/images/media/meals/1529442316.jpg"
+              alt=""
+              class="fav_items"
+            />
+            <span>Veg Item</span>
+            <button class="close">
+              <i class="fa fa-times" aria-hidden="true"></i>
+            </button>
+          </li>
+          <li>
+            <img
+              src="https://www.themealdb.com/images/media/meals/rvtvuw1511190488.jpg"
+              alt=""
+              class="fav_items"
+            />
+            <span>Desert</span>
+            <button class="close">
+              <i class="fa fa-times" aria-hidden="true"></i>
+            </button>
+          </li> -->

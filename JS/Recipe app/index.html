@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css"
+    />
+
+    <title>Recipe || BETA</title>
+  </head>
+  <body>
+    <div class="mobile-container">
+      <header class="header">
+        <input type="search" id="search" />
+        <button class="search_button" onkeyup="search_by_name()">
+          <i class="fas fa-search"></i>
+        </button>
+      </header>
+      <div class="title">
+        <h3>Favourite Meals</h3>
+        <ul id="fav_meal_list"></ul>
+      </div>
+      <div class="food_container"></div>
+    </div>
+    <!-- JavaScript link -->
+    <script defer src="./script.js"></script>
+  </body>
+</html>
